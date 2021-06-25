@@ -1,0 +1,107 @@
+body{
+    margin-left: 4px;
+    margin-top: 2px;
+    background-image: url("images/12_grid.png"); 
+    width: 1170px;
+height: 2528px;
+opacity: 1.2;
+}
+.section
+{
+    background-image: url("images/image_slider.png");
+    width: 1335px;
+    height: 540px;
+    
+}
+ul{
+
+    
+    margin: 0px 0px 0px 0px;}
+li
+{
+
+    display: inline;
+}
+li.fst-right
+{
+float: right;
+padding-right: 35px;
+color: white;
+}
+.fa-whatsapp
+{
+    background:black;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.fa-facebook {
+    background:black;
+    color: white;
+    padding-right: 10px;
+}
+.fa-facebook-messenger {
+        background:black;
+        color: white;
+        
+    }
+.fa-google
+{
+    background:black;
+    color: white;
+    padding-right: 10px;
+}
+
+.fa-twitter {
+    background:black;
+    color: white;
+    padding-right: 10px;
+}
+.fa-skype {
+    background:black;
+    color: white;
+    padding-right: 10px;
+}
+.fa-envelope
+{
+    background:black;
+    color: white;
+    padding-right: 10px;
+}.fa-phone
+{
+    background:black;
+    color: white;
+    padding-right: 10px;
+}
+.headbody
+{
+    text-align: center;
+}
+h2.info-abt-us {
+    font-family: "ink free";
+    font-size: revert;
+    padding-top: 120px;
+    color: white;
+    font-style: oblique;
+}
+h4.touch-wid-us
+{
+    font-family: "Open Sans";
+    font-weight: 700;
+    color: white;
+    padding-bottom: 100px;
+}
+.button
+{
+    border-radius: 10px;
+    padding: 1px 6px 1px 6px;
+}
+img.blogd {
+    padding-left: 83px;
+}
+.openimg
+{
+    
+    width: 1335px;
+    height: 120px;
+}
